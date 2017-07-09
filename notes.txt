@@ -1,0 +1,22 @@
+
+
+24/06/2017
+    Criamos um projeto do zero, definindo 'package.json', 'systemjs.config.js', 'app'. 
+    
+    Mas basicamente foi feito isso manualmente para provar que não precisa do angular-cli para
+criar um projeto angular, o angular-cli é uma ferramenta que auxilia automatizando a criação
+de projetos angular. 
+    
+    Entendemos um pouco da estrutura que explica a função de arquivos de configuração do 
+angular, como o 'package.json' - define quais dependências a aplicação irá
+utilizar, tanto do usuário quanto do desenvolvedor; 'systemjs.config.js' define o caminho
+que o sistema irá encontrar as dependencias definidas pelo 'package.json'. 
+
+    Criamos alguns exemplos de component e module para fazer a aplicação rodar como exemplo.
+
+    
+    Conhecemos o 'BrowserSync' que é uma ferramenta de teste em diversos dispositivos em 
+tempo-real de forma simultânea e colocamos o bootstrap4 na aplicação.
+
+26/06/2017
+    Criamos um módulo de recurso, 'contatos.module.ts'
